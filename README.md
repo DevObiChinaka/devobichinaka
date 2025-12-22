@@ -1,4 +1,4 @@
-# Hi there, I'm Chinaka Obinna (DevObi)
+# Hi, I'm Chinaka Obinna (DevObi)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devobichinaka.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://devobichinaka.vercel.app)
 [![X](https://img.shields.io/badge/Twitter-@devobichinaka-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devobichinaka)
@@ -126,7 +126,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 - **Portfolio:** [devobichinaka.vercel.app](https://devobichinaka.vercel.app)
 - **Email:** [obinnachiderachinaka@gmail.com](mailto:obinnachiderachinaka@gmail.com)
 - **WhatsApp:** [+234 706 240 1459](https://wa.me/2347062401459)
-- **Twitter:** [@devobichinaka](https://twitter.com/devobichinaka)
+- **X:** [@devobichinaka](https://twitter.com/devobichinaka)
 - **Instagram:** [@devobichinaka](https://instagram.com/devobichinaka)
 
 ---
