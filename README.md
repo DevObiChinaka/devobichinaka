@@ -1,4 +1,4 @@
-# Hi, I'm Chinaka Obinna (DevObi)
+# Hi, I'm Chinaka Obinna (DevObiChinaka)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devobichinaka.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://devobichinaka.vercel.app)
 [![X](https://img.shields.io/badge/Twitter-@devobichinaka-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devobichinaka)
