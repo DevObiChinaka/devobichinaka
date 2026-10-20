@@ -10,11 +10,11 @@ Software Engineering graduate interested in building useful software systems and
 
 ## About
 
-- 🎓 Software Engineering graduate from **Admiralty University of Nigeria**.
-- 🧩 Interested in backend systems, software architecture, and turning requirements into working applications.
-- 🤝 Exploring **human–AI collaboration in software engineering**: how AI tools affect programming practice, learning, code understanding, and developers' judgement.
-- 🛠️ I use modern development tools, including AI-assisted workflows, while working to strengthen my own technical understanding and verification skills.
-- 🌍 Based in Nigeria; open to thoughtful collaboration and research opportunities.
+- Software Engineering graduate from **Admiralty University of Nigeria**.
+- Interested in backend systems, software architecture, and turning requirements into working applications.
+- Exploring human–AI collaboration in software engineering: how AI tools affect programming practice, learning, code understanding, and developers' judgement.
+- I use modern development tools, including AI-assisted workflows, while working to strengthen my own technical understanding and verification skills.
+- Based in Nigeria; open to thoughtful collaboration and research opportunities.
 
 ## Selected Projects
 
@@ -45,9 +45,6 @@ My final-year project involved the design and development of **ScoreCode**, a co
 
 ## Areas I'm Learning About
 
-- Backend and distributed systems
-- Software architecture and system design
-- Software testing, reliability, and security
 - AI-assisted programming and human–AI collaboration
 - Programming education, code comprehension, and responsible use of AI tools
 
@@ -61,7 +58,7 @@ This list reflects tools I've used across projects; my depth of experience varie
 
 ## Beyond Coding
 
-I have also taken on student leadership responsibilities, including serving as Students' Union Government Secretary-General. These experiences have strengthened my interest in communication, coordination, and how technical work fits into the needs of real people and teams.
+I have also taken on student leadership responsibilities, including serving as Students' Union Government Secretary-General (2025-2026), Faculty Representative (2024 - 2025) and Course Representative (2022 - 2026). These experiences have strengthened my interest in communication, coordination, and how technical work fits into the needs of real people and teams.
 
 ## Contact
 
