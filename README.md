@@ -7,8 +7,8 @@
 
 ## About Me
 
-- Software Engineering Student @ **Admiralty University of Nigeria**
-- **GDSC Lead** @ Admiralty University
+- B.Sc. Software Engineering @ **Admiralty University of Nigeria**
+- **GDSC Lead** @ Admiralty University 2024
 - Full-Stack Developer specializing in **Django, Next.js & Flutter**
 - Building production-ready SaaS platforms and scalable systems
 - Based in Nigeria
